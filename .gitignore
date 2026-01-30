@@ -33,8 +33,5 @@ testsuite/.venv/
 # macOS-specific files
 .DS_Store
 
-# Agent configs
-CLAUDE.md
-
 *.out
 coverage-report.txt
